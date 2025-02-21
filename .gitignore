@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,cypressio,react
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,cypressio,react
 
-package-lock.json
+#package-lock.json
 
 ### CypressIO ###
 # gitignore template for the CypressIO, browser test framework
